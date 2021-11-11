@@ -1,0 +1,28 @@
+table {
+  border: 5px solid #ff9292;
+  border-radius: 10px;
+  background-color: #fed2aa;
+}
+
+th,
+td,
+tr {
+  border: 5px solid #ffe699;
+}
+
+button {
+  width: 200px;
+  height: 50px;
+  font-size: 26px;
+  font-weight: bold;
+  text-shadow: 1px 1px 2px #fef9ef;
+  box-shadow: 2px 2px #fee440;
+  border-style: hidden;
+  border-radius: 4px;
+  background-color: #a2d2ff;
+}
+
+button:hover {
+  background-color: #fee440;
+  box-shadow: 2px 2px #a2d2ff;
+}
